@@ -12,6 +12,7 @@ node_modules/
 /build
 
 # misc
+.gitignore/
 .DS_Store
 .env
 .env.local
